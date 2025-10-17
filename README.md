@@ -44,6 +44,7 @@ A modern, responsive authentication system built with HTML, CSS, and JavaScript 
 1. **Download the project files:**
    ```bash
    # Clone the repository or download the files manually
-   git clone https://github.com/yourusername/auth-system.git
+   git clone https://github.com/shailesh2027/CodeCrafter-2027.git
    cd auth-system
+
    
