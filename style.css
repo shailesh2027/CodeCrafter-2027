@@ -427,4 +427,20 @@ body {
 
 .hidden {
     display: none !important;
+
+}
+.tagline {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #667eea;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.tagline-subtext {
+    font-size: 0.9rem;
+    color: #6c757d;
+    margin-top: 5px;
+    font-style: italic;
+    text-align: center;
 }
